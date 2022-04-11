@@ -1,0 +1,17 @@
+I learned how to use git and github
+
+-  To use git, you must install git to your local machine
+
+- You can create a new git repository using the command git init
+
+- To view what branch you are currently on, use the command git branch
+
+- Use git status to see if any new files were added or if any files were modified
+
+- git add applies the changes that were made
+
+- git commit -m "" fully adds the changes to the branch you are located in
+
+- git pull is used to retrieve updated files from the remote repository
+
+- git push applies changes you made to the remote repository
